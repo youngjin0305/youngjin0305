@@ -4,4 +4,4 @@
 
 [![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=youngjin)](https://solved.ac/profile/youngjin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
