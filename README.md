@@ -1,4 +1,5 @@
 ### 서울과학기술대학교 컴퓨터공학과 23학번 김영진 
+### CIS Lab 학부연구생
 
 ![youngjin0305 GitHub stats](https://github-readme-stats.vercel.app/api?username=youngjin0305&show_icons=true&hide_border=true&theme=tokyonight)
 
